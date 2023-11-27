@@ -1,0 +1,3 @@
+Run the below in the terminal to server db.json as a server
+
+- json-server --watch --port 4000 ./_data/db.json
