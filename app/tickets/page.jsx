@@ -1,6 +1,7 @@
 import {Suspense} from 'react';
 import TicketList from './TicketList';
 import Loading from '../loading';
+import Link from 'next/link';
 
 export default function Ticket() {
     return (

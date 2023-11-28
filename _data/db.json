@@ -27,6 +27,27 @@
       "priority": "high",
       "user_email": "iamdanielkissiedu@gmail.com",
       "id": "4PA7kJc"
+    },
+    {
+      "title": "Go and sleep it's passed bed time",
+      "body": "Daniel sleep and continue tomorrow",
+      "priority": "medium",
+      "user_email": "iamdanielkissiedu@gmail.com",
+      "id": "1eJhXWi"
+    },
+    {
+      "title": "Don't you have class tomorrow",
+      "body": "Check your timetable to see if you have class",
+      "priority": "high",
+      "user_email": "iamdanielkissiedu@gmail.com",
+      "id": "YrtrNRx"
+    },
+    {
+      "title": "Set an Alarm",
+      "body": "Wake up before 5am",
+      "priority": "high",
+      "user_email": "iamdanielkissiedu@gmail.com",
+      "id": "SEyCFA4"
     }
   ]
 }
